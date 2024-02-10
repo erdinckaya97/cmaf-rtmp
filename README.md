@@ -1,7 +1,9 @@
 # cmaf-rtmp
 CMAF transcoding
 **İnstall FFmpeg**
+
 **Ubuntu:** `sudo apt install ffmpeg -y`
+
 **Fedora: ** `sudo dnf install ffmpeg -y`
 
 **install RTMP:**
